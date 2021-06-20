@@ -1,0 +1,15 @@
+{
+  "name": "myair-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocka": "0.0.1",
+    "node-schedule": "^2.0.0"
+  }
+}
